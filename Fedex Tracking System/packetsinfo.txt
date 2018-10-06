@@ -1,0 +1,4 @@
+John,801029127,7lbs/3.5kgs,10x10x10 in,1,Northborough, MA,Grove City, OH
+David,801029128,5lbs/2.5kgs,10x5x5 in,1,Indianapolis, IN,Houston, TX
+Alex,801029129,4lbs/2kgs,2x4x8 in,1,Dallas, TX,Phoenix, AZ
+Susan,801029130,8lbs/4kgs,5x10x11 in,1,Seattle, WA,Northborough, MA
